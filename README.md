@@ -1,21 +1,20 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
-## Lab 2
+## Lab 3
 
 ### App Description
-Flash card Lab 2
+Updated Flashcard
 
 ### App Walk-though
-Update on lab 1
+Updating lab 2
 
-<img src="https://i.imgur.com/IWkYPZ3.gifv" width=200><br>
+<img src="https://i.imgur.com/QpzkJ55.gifv" width=200><br>
 
 ## Required
-- [x] User can open the creation screen
-- [x] User can cancel out of the creation screen
-- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
 - [x] Push code to GitHub
 ## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
+- [ ] User can store multiple choice questions
